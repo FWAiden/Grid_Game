@@ -1,0 +1,4 @@
+# Keine externen Python-Pakete erforderlich.
+# Das Spiel verwendet ausschliesslich die Python-Standardbibliothek.
+# Tkinter (inklusive Tcl/Tk) muss mit Python installiert sein.
+# Tkinter wird nicht mit pip installiert.
